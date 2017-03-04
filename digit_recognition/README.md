@@ -1,3 +1,6 @@
+## for keras code for step2 in file keras
+
+
 # Machine Learning Engineer Nanodegree
 # Deep Learning
 ## Project: Build a Digit Recognition Program
